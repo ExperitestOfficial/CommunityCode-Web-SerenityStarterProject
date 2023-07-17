@@ -11,9 +11,6 @@ repositories {
     mavenCentral()
 }
 
-sourceCompatibility = 17
-targetCompatibility = 17
-
 ext {
     slf4jVersion = '1.7.7'
     serenityCoreVersion = '3.6.21'
